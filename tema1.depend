@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1553031820 source:d:\system documents\desktop\faculate\oop\tema1\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	"Polinom.h"
+	"Pereche.h"
+
+1553031839 d:\system documents\desktop\faculate\oop\tema1\polinom.h
+
+1553031847 d:\system documents\desktop\faculate\oop\tema1\pereche.h
+
